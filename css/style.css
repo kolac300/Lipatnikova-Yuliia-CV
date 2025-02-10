@@ -337,6 +337,12 @@ h2 {
 		margin-left: 0;
 	}
 
+	.box-1.languages{
+		position: absolute;
+		top:170px;
+		left: 390px;
+	}
+
 	.name-div {
 		padding: 0;
 		margin: 0;
